@@ -80,13 +80,13 @@ https://yourdomain.com/getauthurl/{data_value}/{asset_name}
 An actual URL could be:
 
 ```
-https://acme.com/getauthurl/85/radial-wedge
+https://acme.com/getauthurl/85/radial-demo
 ```
-This returns a well formed image URL for a design you have created called "radial-wedge", showing the number "85" in that design.
+This returns a well formed image URL for a design you have created called "radial-demo", showing the number "85" in that design.
 
 ### Valid asset names for the demo:
 
-radial-basic
+radial-demo
 
 
 ## Sample GET URL #2 (get customer score image)
@@ -116,7 +116,7 @@ https://yourdomain.com/get/authurl/from/post
 POST parameters
 ```
 value       - a number between 1 and 100
-asset_name  - a valid asset created at MyDesign99 for the demo account
+asset_name  - a valid asset created at MyDesign99 for the demo account (use 'radial-demo')
 ```
 
 One way to use this demo is with Curl on a command line
@@ -127,5 +127,5 @@ Remember to replace "yourdomain.com" with your own domain name
 
 ### Valid asset names for the demo:
 
-radial-basic
+radial-demo
 
