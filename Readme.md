@@ -98,7 +98,7 @@ https://yourdomain.com/get/customer/score/{customer_name}
 An actual URL could be:
 
 ```
-https://yourdomain.com/get/customer/score/betty
+https://acme.com/get/customer/score/betty
 ```
 This looks up the customer named "betty" and returns a well-formed image URL for her score and the asset name stored in the configuration file
 
