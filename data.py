@@ -1,3 +1,5 @@
+#  Copyright (c) 2025 MyDesign99 LLC
+
 def getCustomerValue (name):
     name = name.lower()
     if name == "betty":
