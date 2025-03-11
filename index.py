@@ -1,5 +1,7 @@
 #! C:/path_to_python/python.exe
 
+#  Copyright (c) 2025 MyDesign99 LLC
+
 from md99authtoken import md99authtoken
 
 # system modules
