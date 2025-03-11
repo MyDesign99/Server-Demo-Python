@@ -1,3 +1,5 @@
+#  Copyright (c) 2025 MyDesign99 LLC
+
 def getConfig (key):
     if key == "public_key":
         return ""      # your value here
